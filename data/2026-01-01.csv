@@ -1,0 +1,3 @@
+order_id,amount_cents,status
+o001,1200,completed
+o002,800,cancelled
